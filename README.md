@@ -1,7 +1,7 @@
-# Projeto House Rocket Company (ficticio) 
+# Projeto House Rocket Company (empresa ficticia) 
 
 
-Este é um projeto fictício, feito segundo as recomendações do blog Seja um Data Scientist. A empresa, o contexto e as perguntas de negócios não são reais.  
+Este é um projeto de análise de dados de uma empresa fictícia, feito segundo as recomendações do blog Seja um Data Scientist. A empresa, o contexto e as perguntas de negócios não são reais.  
 
 ​ A logo criada é ficticia.
 
@@ -55,6 +55,34 @@ Abaixo segue a descrição de cada um dos atributos apresentados:
 |**sqft_livining15** | Medida (em pés quadrado) do espaço interno de habitação dos 15 vizinhos mais próximo | 
 |**sqft_lot15**| Medida (em pés quadrado) dos lotes de terra dos 15 vizinhos mais próximo | 
 
+
+## 2. Premissas do projeto
+
+Para a execução deste projeto algumas premissas foram adotadas, sendo elas:
+
+* dados com ID's duplicados foram excluidos, por considerar como recompra
+* embora os dados de 'sqft_living15' e 'sqft_lot15', sejam relevantes no cenário global, neste momento optou-se pela sua exclusão, uma vez que muito pouco poderiam contribuir para o atual projeto
+
+## 3. Hipóteses 
+
+|***Hipótese*** | ***Validação*** |
+| -------- | --------- |
+| H1: Imóveis que possuem vista para água, são, em média, 30% mais caros. | Falsa |
+| H2: Imóveis com data de construção menor que 1955, são 50% mais baratos, na média. | Falsa |
+| H3: Imóveis sem porão possuem área total ('sqrt_lot') 50% maiores do que imóveis com porão. | Falsa |
+| H4: O crescimento do preço dos imóveis YoY ( Year over Year ) é de 10%. | Falsa |
+| H5: O crescimento do preço dos imóveis MoM ( Month over Month ) é de 5%. | Falsa |
+| H6: Imóveis com 3 banheiros tem um crescimento MoM ( Month over Month ), no ano de 2015 de 15%. | ---- |
+| H7: Imóveis reformados são, em média 40% mais caros que os imóveis não reformados. | Verdadeira |
+| H8: Imóveis anteriores a 1955 e não renovados são 30% mais baratos. | Falsa |
+| H9: Imóveis em más condições (condition_type = bad) mas com boa vista, são 10% mais caros. | -- |
+| H10: Imóveis com número de quartos maior são 5% mais caros. | --- |
+
+## 4. Insights de dados
+
+## 5. Resultado financeiro
+
+## 6. Conclusão
 
 
 
