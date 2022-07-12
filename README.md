@@ -136,7 +136,7 @@ Entretanto o lucro pode ser explorado por condições e região dos imóveis, on
 
 ## 6. Conclusão
 
-O projeto teve o foco de gerar insights para o negócio, assim como responder algumas perguntas da empresa. O objetivo central foi atingido, sendo possível extrair informações relevantes e com potencial de gerar direcionamento para as próximas operações da House Rocket.
+O projeto teve o foco de gerar insights para o negócio, assim como responder algumas perguntas da empresa. O objetivo central foi atingido, sendo possível extrair informações relevantes e com potencial de gerar direcionamento para a empresa.
 
 
 
