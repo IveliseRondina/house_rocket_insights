@@ -11,7 +11,7 @@ O objetivo desse projeto é fornecer uma seleção de imóveis para o time de ne
 
 A ferramenta de visualização utilizada nesse projeto - Streamlit, permitirá que a empresa possa visualizar esse resultado de forma gráfica e tabular. O resultado geral obtido foi uma seleção de __10642 imóveis__ (podendo ser variável de acordo com as condições/localizações).
 
-Link para visualização:  [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://insight-house-rocket.herokuapp.com/)
+Link para visualização: https://iveliserondina-house-rocket-insights-dashboard-app-qsk9uw.streamlit.app/
 
 ## 1. A House Rocket
 
