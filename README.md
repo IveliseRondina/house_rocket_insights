@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/103456938/178109527-f79fd8d1-f1ea-44af-9664-193fdd01f915.jpeg"/>
+<img src="https://user-images.githubusercontent.com/103456938/215365216-bf946cca-73aa-4847-99a4-c9ff73a7a483.jpg"/>
 </p>
 
 Este é um projeto de análise de dados de uma empresa fictícia, feito segundo as recomendações do blog Seja um Data Scientist. A empresa, o contexto e as perguntas de negócios não são reais.  
