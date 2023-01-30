@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center"> Projeto House Rocket Company (empresa ficticia) </p>
+<h1 align="center"> Projeto House Rocket Company (empresa ficticia) </h1>
 
 
 
